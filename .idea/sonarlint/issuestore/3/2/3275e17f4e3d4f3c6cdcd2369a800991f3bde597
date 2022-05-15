@@ -1,0 +1,11 @@
+
+M
+java:S1172"8Remove these unused method parameters "name", "version".(û“­
+<	java:S131V""Add a default case to this switch.(³›¯°ùÿÿÿÿ
+c
+java:S1192@"HDefine a constant instead of duplicating this literal " WHERE " 7 times.(æãßøÿÿÿÿ
+a
+java:S1192`"KDefine a constant instead of duplicating this literal " ORDER BY " 5 times.(³‘§…
+j
+java:S1192?"ODefine a constant instead of duplicating this literal "SELECT * FROM " 9 times.(ÜÌð‹øÿÿÿÿ
+k	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Ÿ…ùÿÿÿÿ

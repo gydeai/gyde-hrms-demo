@@ -1,0 +1,53 @@
+
+i	java:S116$"ORename this field "Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İœòˆøÿÿÿÿ
+j	java:S116$"PRename this field "Phone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İœòˆøÿÿÿÿ
+m	java:S116$"SRename this field "Position" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İœòˆøÿÿÿÿ
+k	java:S116$"QRename this field "Resume" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İœòˆøÿÿÿÿ
+k	java:S116$"QRename this field "Change" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İœòˆøÿÿÿÿ
+f	java:S116%"QRename this field "Status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¢Õß
+e	java:S116&"PRename this field "R_uri" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ™“ó
+b
+java:S1845&"LRename field "name" to prevent any misunderstanding/clash with field "Name".(ˆ™“ó
+d
+java:S1845&"NRename field "phone" to prevent any misunderstanding/clash with field "Phone".(ˆ™“ó
+j
+java:S1845&"TRename field "position" to prevent any misunderstanding/clash with field "Position".(ˆ™“ó
+f
+java:S1845&"PRename field "status" to prevent any misunderstanding/clash with field "Status".(ˆ™“ó
+>
+java:S1659!"#Declare "reset" on a separate line.(ëİ×‚úÿÿÿÿ
+]
+java:S1659$"BDeclare "Phone" and all following declarations on a separate line.(İœòˆøÿÿÿÿ
+X
+java:S1659&"BDeclare "phone" and all following declarations on a separate line.(ˆ™“ó
+<
+java:S1659'"'Declare "resumeUri" on a separate line.(•È¬E
+<	java:S131L""Add a default case to this switch.(éàœ™øÿÿÿÿ
+Y
+java:S1117Ã"=Rename "resumeUri" which hides the field declared at line 39.(óØ¤Óùÿÿÿÿ
+Z
+java:S1874Ë">Remove this use of "startActivityForResult"; it is deprecated.(¡„Âùÿÿÿÿ
+T
+java:S1874Ø">Remove this use of "startActivityForResult"; it is deprecated.(Ö­Ìa
+a
+java:S1874Ş"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ŸŒ¹Ñ
+C
+java:S1604s"(Make this anonymous inner class a lambda(Ó¦˜¤ùÿÿÿÿ
+>
+java:S1604z"(Make this anonymous inner class a lambda(°¯èù
+?
+java:S1604€"(Make this anonymous inner class a lambda(¸û‘ä
+D
+java:S1604†"(Make this anonymous inner class a lambda(ßÚÔÊúÿÿÿÿ
+?
+java:S1604"(Make this anonymous inner class a lambda(¸©é¢
+D
+java:S1604—"(Make this anonymous inner class a lambda(èë¦Œşÿÿÿÿ
+D
+java:S1604­"(Make this anonymous inner class a lambda(Ä†Š±ûÿÿÿÿ
+>
+java:S1604¸"(Make this anonymous inner class a lambda(ç°v
+D
+java:S1604Å"(Make this anonymous inner class a lambda(ºç¯Åÿÿÿÿÿ
+?
+java:S1604Ò"(Make this anonymous inner class a lambda(¾‘’¢

@@ -1,0 +1,21 @@
+
+^
+java:S1659"ADeclare "push" and all following declarations on a separate line.(‘¹Ü8ïáäİÒ/
+N
+java:S1602D",Remove useless curly braces around statement(æ×À²ùÿÿÿÿ8È†æİÒ/
+W	java:S125E"<This block of commented-out lines of code should be removed.(äÑ8È†æİÒ/
+]	java:S125j"<This block of commented-out lines of code should be removed.(¾ÎÖÿÿÿÿÿ8âäİÒ/
+]
+java:S1854à":Remove this useless assignment to local variable "sample".(ø´ì–ÿÿÿÿÿ8‡âäİÒ/
+^	java:S125Ø"<This block of commented-out lines of code should be removed.(¾ÎÖÿÿÿÿÿ8ˆâäİÒ/
+N
+java:S1481à"+Remove this unused "sample" local variable.(ø´ì–ÿÿÿÿÿ8ˆâäİÒ/
+Y	java:S125á"<This block of commented-out lines of code should be removed.(ñÿª¯8‰âäİÒ/
+l	java:S117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÀ’}8•âäİÒ/
+s	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¼÷Êøÿÿÿÿ8•âäİÒ/
+J
+java:S1604b"(Make this anonymous inner class a lambda(ªğıÿÿÿÿ8–âäİÒ/
+K
+java:S1604Ğ"(Make this anonymous inner class a lambda(ªğıÿÿÿÿ8–âäİÒ/
+K
+java:S1604"(Make this anonymous inner class a lambda(áİ—Ûÿÿÿÿÿ8–âäİÒ/
